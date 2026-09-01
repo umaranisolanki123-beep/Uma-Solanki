@@ -1,4 +1,4 @@
 # Git class 3
 this is my first Git Repository.
-<b>
+<br>
 Author - uma mogiya
