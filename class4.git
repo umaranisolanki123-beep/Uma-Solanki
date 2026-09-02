@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Our Family - Raksha Bandhan</title>
+
+  
+    <link rel="stylesheet" href="28agast.css">
+</head>
+
+<body>
+
+    <h1> **umarani mogiya ki website </h1>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#family">Family</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#message">Message</a>
+    </nav>
+    <h1>🌸 Happy Raksha Bandhan 🌸</h1>
+<div>
+            <p>
+               <h2> A beautiful festival of love,
+                care and the bond between brothers and sisters ❤️</h2>
+            </p>
+            </div>
+            <h2>The bond between a brother and sister is very special.
+It is filled with love and a little playful fighting.
+They always support and care for each other.
+This beautiful bond stays forever. ❤️</h2>
+
+<section class="home" id="home">
+<img src="yu.png" alt="">
+<img src="uma2.png" alt="">
+ <img src="uma.png" alt="">
+ 
+</section>
+ <section id="family">
+  <h2>👨‍👩‍👧‍👦 Our Family</h2>
+<h1>🌸 My Grandfather & Grandmother — The Heart of Our Family</h1>
+<h1>Our loving grandfather</h1>
+        <img src="dada2.jpg" alt="">
+        <img src="dadi3.jpg" alt="">
+        <img src="z.jpg" alt="">
+
+
+        <h2>Our grandfather is the pillar of our family. His wisdom, kindness,
+                 and loving nature make our home feel complete. His stories, advice, 
+             and blessings are precious memories that we will always carry in our hearts.
+         He teaches us the value of family, respect, and staying together.</h2>
+        
+
+           
+<h1>❤️ My Parents — The Strength and Heart of Our Family 🏡</h1>
+
+<img src="3.jpg" alt="">
+<img src="4.jpg" alt="">
+<img src="5.jpg" alt="">
+ <h1>  “My Father — The Strength of Our Family” 🏡</h1>
+     
+       <h2> He works hard to give us a happy and secure life and always encourages us to follow our dreams. 
+             His support, sacrifices, and guidance inspire us every day.
+              We are truly blessed to have a father who always stands by our side.</h2>
+
+<h1>👨‍👩‍👦 My Brother & Sister-in-Law ❤️  A Beautiful Bond of Love ❤️</h1>
+
+<img src="bh2.jpg" alt="">
+<img src="b5.jpg" alt="">
+<img src="b2.jpg" alt="">
+         <h2>My beloved brother and sister-in-law are a beautiful part of our family.
+             My brother is always there for us like a strong support,
+              while my sister-in-law fills our home with love, warmth,
+               and happiness through her caring nature and beautiful smile.
+                Their togetherness makes our family even more special. I pray that they always stay happy,
+             continue to support and love each other, 
+             and may their life always be filled with love, joy, and success. 💕🌸</h2>
+
+            <h1>The thread of relationships, the bond of love — Happy Raksha Bandhan.</h1>
+            <img src="bhai2.jpg" alt="">
+            <img src="rksha.jpg" alt="">
+            <img src="sis.jpg" alt="">
+
+
+            <h2>Our family is not just a group of people living together,
+                 but a beautiful bond filled with love, trust, happiness, and countless memories.
+                  The love of grandparents, the blessings of parents, the fun between brothers and sisters, 
+                  and the innocent smiles of children make our home full of joy. We may all be different, 
+                  but our love for each other always keeps us connected.
+                   ❤️</h2>
+<h1>The festival of brother-sister love — wishing you a very Happy Raksha Bandhan</h1>
+
+                   <img src="sis2.jpg" alt="">
+                   <img src="sis3.jpg" alt="">
+                   <img src="sis5.jpg" alt="">
+
+                <h2>The most beautiful thing about our family is that we celebrate every festival, 
+                    every special moment, and every little happiness together. On Raksha Bandhan, 
+                    sisters tie rakhi on their brother’s wrist,
+                     brothers give love and gifts to their sisters,
+                      and the whole family celebrates together with sweets and smiles.    
+                    These moments are truly special because they become beautiful memories that we carry in our hearts forever. 🌸
+              </h2>
+             <h1>May this bond, filled with love and trust, always remain this beautiful.</h1>
+              <img src="sis4.jpg" alt="">
+              <img src="dropti.jpg" alt="">
+              <img src="yu.png" alt="">
+
+    <section id="message">
+<h2>💖 Special Message</h2>
+ <div class="message">
+<h2> Raksha Bandhan sirf ek tyohar nahi hai, balki bhai-behen ke pyaar aur bharose ka  khoobsurat rishta hai. ❤️</h2>
+ 
+ </div>
+ </section>
+     <footer>
+     <h2> Made by umarani mogiya</h2>
+       <h2> © 2026 Our Family</h2>
+    </footer>
+   
